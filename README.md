@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [www.cemkaplan.me/about](www.cemkaplan.me/about)
 
-- ⚡ Fun fact **I think there is no end of learning, you never learn everything but you could be best!**
+- ⚡ Fun fact **I think there is no end of learning, you never learn everything but you could be the best!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
