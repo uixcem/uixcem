@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem!</h1>
-<h3 align="center">A lifetime learner from Finland! Especially UI/UX design!</h3>
+<h3 align="center">A lifetime learner, especially UI/UX design with passion <3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uixcem&label=Profile%20views&color=0e75b6&style=flat" alt="uixcem" /> </p>
 
