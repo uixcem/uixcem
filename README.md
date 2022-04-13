@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.cemkaplan.me/works](www.cemkaplan.me/works)
 
-- 💬 Ask me about **Figma, Xd and anything about UI!**
+- 💬 Ask me about ** anything about! **
 
 - 📫 How to reach me **uixcem@gmail.com**
 
