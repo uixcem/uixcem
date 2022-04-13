@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cem!</h1>
 <h3 align="center">A lifetime learner, especially UI/UX design with passion <3</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uixcem&label=Profile%20views&color=0e75b6&style=flat" alt="uixcem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=uixcem&label=Profile%20views&color=0e75b6&style=flat" alt="uixcem" /> </p>
 
 - 🔭 I’m currently working on **different companies and making their UI Designs for their games**
 
