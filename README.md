@@ -9,13 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [www.cemkaplan.me/works](www.cemkaplan.me/works)
 
-- 💬 Ask me about ** anything about! **
+- 💬 Ask me about ** anything-let's find something to talk 👀 . **
 
 - 📫 How to reach me **uixcem@gmail.com**
 
 - 📄 Know about my experiences [www.cemkaplan.me/about](www.cemkaplan.me/about)
 
-- ⚡ Fun fact **I think there is no end of learning, you never learn everything but you could be the best!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
