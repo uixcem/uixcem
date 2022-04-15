@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **more deeply front-end development from various source.**
 
-- 👨‍💻 All of my projects are available at [www.cemkaplan.me/works](www.cemkaplan.me/works)
+- 👨‍💻 All of my projects are available at [www.cemkaplan.me](www.cemkaplan.me)
 
 - 💬 Ask me about ** anything-let's find something to talk 👀 . **
 
 - 📫 How to reach me **uixcem@gmail.com**
 
-- 📄 Know about my experiences [www.cemkaplan.me/about](www.cemkaplan.me/about)
+- 📄 Know about my experiences [www.cemkaplan.me](www.cemkaplan.me)
 
 
 <h3 align="center">Connect with me:</h3>
