@@ -2,7 +2,7 @@
 <h3 align="center">A lifetime learner, especially UI/UX design with passion <3</h3>
 
 
-- 🌱 I’m currently learning **more deeply front-end development from various source.**
+- 🌱 I’m currently learning **front-end development from various source.**
 
 - 👨‍💻 All of my projects are available at [www.cemkaplan.me](www.cemkaplan.me)
 
