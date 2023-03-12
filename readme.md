@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cem!</h1>
-<h3 align="center">A lifetime learner, especially UI/UX design with passion <3</h3>
+<h3 align="center">A lifetime learner, especially UI design and animations with CSS</h3>
 
 
 - 🌱 I’m currently learning **front-end development from various source.**
