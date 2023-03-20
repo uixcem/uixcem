@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/uixcem?tab=repositories">my repos,especially CSS Exercises! </a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Click to see <a href="https://github.com/uixcem?tab=repositories">my repos,especially CSS Exercises! </a>! ⭐ Stars are appreciated!</h3>
 
 
 <h3 align="center">Languages and Tools:</h3>
