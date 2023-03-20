@@ -1,4 +1,4 @@
-<a href="#"><img width="200px" height="auto" src="https://i.ibb.co/c6TW9G3/undraw-Programming-re-kg9v.png" height="200px"/></a>
+<a href="#"><img width="50%" text-align="center" height="auto" src="https://i.ibb.co/c6TW9G3/undraw-Programming-re-kg9v.png" height="200px"/></a>
 
 <h1 align="center">Hei there, I'm Cem!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
 <h3 align="center">A lifetime learner, especially UI design and Web Development</h3>
