@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on expanding my knowledge of full-stack web development.
  
-- 🌱 I’m currently learning advanced CSS leading into SaSS and then Tailwind.
+- 🌱 I’m currently learning advanced CSS leading into SaSS.
 
 - ⭐ Also I am focused on learning Javascript then React.
 
