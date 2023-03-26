@@ -8,13 +8,13 @@
 <h3 align="center">A lifetime learner, especially UI design and Web Development</h3>
 
 
-- 🔭 I’m currently working on expanding my knowledge of full-stack web development.
+- 🔭 I’m currently working on expanding my knowledge of Front-End Development.
  
 - 🌱 I’m currently learning advanced CSS leading into SaSS.
 
 - ⭐ Also I am focused on learning Javascript then React.
 
-- 👨‍💻 All of my projects are available at [www.cemkaplan.me](www.cemkaplan.me)
+- 🛞 My current plan is learning Three.js and Blender at final, and totally focus on being a 3D Web Developer.
 
 - ⚡ Fun fact: I'm also semi-professional Ney musician.
 
