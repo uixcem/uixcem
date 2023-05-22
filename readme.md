@@ -8,7 +8,7 @@
 <h3 align="center">A lifetime learner, especially UI design and Web Development</h3>
 
 
-- 🔭 I’m Software Development Trainee at BearIT.
+- 🔭 I’m a Software Development Trainee at BearIT.
  
 - 🌱 I’m currently learning advanced CSS leading into SaSS.
 
