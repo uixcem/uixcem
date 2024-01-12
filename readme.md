@@ -14,8 +14,6 @@
 
 - ⭐ Also I am focused on enhance my Javascript knowledge then React.
 
-- 🛞 Also in future, I have a plan that learning Three.js and Blender at final, and totally focus on being a 3D Web Developer.
-
 - ⚡ Fun fact: I'm also semi-professional Ney musician.
 
 
