@@ -14,7 +14,7 @@
 
 - ⭐ Also I am focused on enhance my Javascript knowledge then React.
 
-- ⚡ Fun fact: I'm also semi-professional Ney musician.
+- ⚡ Fun fact: I'm also semi-professional Ney musician
 
 
 <h3 align="center">Connect with me:</h3>
