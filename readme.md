@@ -29,16 +29,7 @@
 
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=uixcem&label=Profile%20views&color=0e75b6&style=flat" alt="uixcem" /> </p>
 
-/* <h2 align="center"> 🔥 My contribution streak 🔥 </h2>
 
-<p align="center">
-  <a href="https://github.com/uixcem/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uixcem#version3"/>
-  </a>
-</p> 
-
-<h3 align="center">Click to see <a href="https://github.com/uixcem?tab=repositories">my repos,especially CSS Exercises! </a>! ⭐ Stars are appreciated!</h3>
-*/
 <br>
 
 <h2 align="center"> Thank you for visiting my profile 🤓  </h2>
