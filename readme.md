@@ -8,13 +8,13 @@
 <h3 align="center">A lifetime learner, especially UI design and Web Development</h3>
 
 
-- 🔭 I’m a Software Development Trainee at BearIT.
+- 🔭 I’m a UX Designer / Front End Developer Trainee @Svea.
  
-- 🌱 I’m currently learning advanced CSS leading into SaSS.
+- 🌱 I’m focusing on advanced JS leading into React.
 
-- ⭐ Also I am focused on enhance my Javascript knowledge then React.
+- ⭐ Also I am focused on enhancing my advanced CSS/ScSS knowledge then Tailwind.
 
-- ⚡ Fun fact: I'm also semi-professional Ney musician
+- ⚡ Fun fact: I'm also a semi-professional Ney musician
 
 
 <h3 align="center">Connect with me:</h3>
